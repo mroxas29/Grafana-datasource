@@ -1,4 +1,4 @@
-﻿mobile_num,country,plan,star_tDate,end_Date,duration,is_Active,days_Active
+﻿mobile_num,country,plan,start_Date,end_Date,duration,is_Active,days_Active
 631234567890,CHN,DATAROAM15,9/1/2024 8:30,9/15/2024 8:30,15,FALSE,15
 631234567891,CHN,DATAROAM14,9/5/2024 9:00,9/19/2024 9:00,14,TRUE,12
 631234567892,CHN,DATAROAM14,9/10/2024 10:00,9/24/2024 10:00,14,TRUE,7
